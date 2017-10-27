@@ -1,0 +1,7 @@
+ls
+pwd
+echo "ya    rab"
+cd /home/aya
+pwd
+exit
+
